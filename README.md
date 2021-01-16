@@ -17,7 +17,7 @@ __Note__ Refer the jupyter notebook for more details
 ### State Estimation
 <p align="center">
 <img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/output/ekf.png" width = 300>
-<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/data/ekf_orientation.png" width = 300>
+<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/output/ekf_orientation.png" width = 300>
 </p>
 
 
