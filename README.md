@@ -10,14 +10,14 @@ __Note__ Refer the jupyter notebook for more details
 
 ### Ground Truth for result comparision
 <p align="center">
-<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/data/gtruth.png" width = 300>
-<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/data/gtruth.png" width = 300>
+<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/data/gtruth.png" width = 400>
+<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/data/gtruth2.png" width = 400>
 </p>
 
 ### State Estimation
 <p align="center">
-<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/output/ekf.png" width = 300>
-<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/output/ekf_orientation.png" width = 300>
+<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/output/ekf.png" width = 400>
+<img src="https://github.com/varunasthana92/Trajectory_Tracing_EKF/blob/master/output/ekf_orientation.png" width = 400>
 </p>
 
 
