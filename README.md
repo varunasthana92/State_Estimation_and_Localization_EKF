@@ -1,4 +1,4 @@
-## Implementation of Extended Kalman Filter for state estimation & localization using odometry data and LIDAR input
+# Implementation of Extended Kalman Filter for state estimation & localization using odometry data and LIDAR input
 
 ### Motion Model
 The vehicle motion model recieves linear and angular velocity odometry readings as inputs, and outputs the state (i.e., the 2D pose) of the vehicle.
